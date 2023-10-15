@@ -25,6 +25,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
-- [Your Name](mailto:jordan.jsjames@email.com)
+- [Jordan James](mailto:jordan.jsjames@email.com)
 
 Enjoy working on your project!
